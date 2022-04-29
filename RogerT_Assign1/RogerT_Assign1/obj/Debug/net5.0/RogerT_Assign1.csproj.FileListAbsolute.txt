@@ -1,0 +1,16 @@
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\bin\Debug\net5.0\RogerT_Assign1.exe
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\bin\Debug\net5.0\RogerT_Assign1.deps.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\bin\Debug\net5.0\RogerT_Assign1.runtimeconfig.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\bin\Debug\net5.0\RogerT_Assign1.runtimeconfig.dev.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\bin\Debug\net5.0\RogerT_Assign1.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\bin\Debug\net5.0\ref\RogerT_Assign1.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\bin\Debug\net5.0\RogerT_Assign1.pdb
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.csproj.AssemblyReference.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.AssemblyInfoInputs.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.AssemblyInfo.cs
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\ref\RogerT_Assign1.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.pdb
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerT_Assign1\RogerT_Assign1\obj\Debug\net5.0\RogerT_Assign1.genruntimeconfig.cache
